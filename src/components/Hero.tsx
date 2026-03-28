@@ -19,7 +19,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           }`}
         >
-          Студия дизайна интерьеров
+          Архитектор-дизайнер
         </p>
 
         {/* Main Headline */}
@@ -28,8 +28,8 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          Пространства,
-          <span className="block text-sage">которые дышат</span>
+          Создаю пространства
+          <span className="block text-sage">для жизни</span>
         </h1>
 
         {/* Subheadline */}
@@ -38,7 +38,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          Японский минимализм в сочетании со скандинавским теплом. Мы создаём интерьеры, где есть место и смыслу, и красоте.
+          Архитектура и дизайн интерьеров, где каждая деталь служит жизни. Создаю пространства, в которых хочется возвращаться.
         </p>
 
         {/* CTA */}
@@ -65,7 +65,7 @@ export function Hero() {
             href="#philosophy"
             className="inline-flex items-center gap-2 px-8 py-4 text-sm tracking-widest uppercase text-muted-foreground hover:text-foreground transition-colors duration-500"
           >
-            Наш подход
+            Моя философия
           </a>
         </div>
       </div>

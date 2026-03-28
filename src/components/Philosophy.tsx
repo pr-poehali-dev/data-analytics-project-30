@@ -32,9 +32,9 @@ export function Philosophy() {
             }`}
           >
             <img
-              src="/minimalist-japanese-interior-design-with-natural-w.jpg"
-              alt="Минималистичный интерьер с натуральным деревом"
-              className="absolute inset-0 w-full h-full object-cover"
+              src="https://cdn.poehali.dev/files/cee1beb4-adfb-4efd-88db-2158ac58b2a2.png"
+              alt="Наталья Тесленко — архитектор-дизайнер"
+              className="absolute inset-0 w-full h-full object-cover object-top"
             />
             {/* Overlay accent */}
             <div className="absolute bottom-0 left-0 w-24 h-24 bg-terracotta/80" />
@@ -47,7 +47,7 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
               }`}
             >
-              Наша философия
+              Моя философия
             </p>
 
             <h2
@@ -67,13 +67,12 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Я верю, что каждый дом несёт в себе историю своих хозяев. Моя задача — найти эту историю
+                и воплотить её в пространстве, где каждая деталь на своём месте.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                Архитектура для меня — это не про стиль, а про ощущение. Про свет, который входит в нужный момент.
+                Про тишину, которая обнимает. Про <em className="text-foreground">пространство для жизни</em> — настоящей, вашей.
               </p>
             </div>
 
@@ -84,16 +83,16 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">10+</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">80+</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">∞</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Идей</p>
               </div>
             </div>
           </div>
