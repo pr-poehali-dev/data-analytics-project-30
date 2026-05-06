@@ -75,6 +75,12 @@ export function Contact() {
                 </a>
               </div>
               <div>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mb-2">Телефон</p>
+                <a href="tel:+79615880295" className="text-foreground hover:text-sage transition-colors">
+                  +7 961 588 02 95
+                </a>
+              </div>
+              <div>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mb-2">Локация</p>
                 <p className="text-foreground">Москва и Санкт-Петербург</p>
               </div>
